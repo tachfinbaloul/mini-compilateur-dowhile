@@ -1,0 +1,12 @@
+# Maven build directory (NE PAS versionner)
+target/
+
+# NetBeans files
+nbproject/private/
+nbproject/*-private.xml
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
